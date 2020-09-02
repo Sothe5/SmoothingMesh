@@ -15,3 +15,17 @@ how many iterations should be done using that laplacian value.
 For linux machines download and install QT and execute ./compile.sh it is a file I created to execute all the commands to compile
 
 To execute the compiled files use: ./nameFolder ./diredgenormals/fileName.diredgenormal
+
+# Results
+
+Initial Model:
+
+<img src="/InitialSmooth.jpg" width="300" height="300">
+
+Slightly Smoothed:
+
+<img src="/SlightlySmooth.jpg" width="300" height="300">
+
+Very Smoothed:
+
+<img src="/VerySmooth.jpg" width="300" height="300">
